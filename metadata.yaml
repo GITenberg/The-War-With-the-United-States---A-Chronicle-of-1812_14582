@@ -1,0 +1,42 @@
+_repo: The-War-With-the-United-States---A-Chronicle-of-1812_14582
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wood, William Charles Henry
+    birthdate: 1864
+    deathdate: 1947
+    gutenberg_agent_id: '986'
+    url: http://www.gutenberg.org/2009/agents/986
+  editors:
+  - agent_name: Wrong, George McKinnon
+    alias: Wrong, George M. (George McKinnon)
+    birthdate: 1860
+    deathdate: 1948
+    gutenberg_agent_id: '1002'
+    url: http://www.gutenberg.org/2009/agents/1002
+    wikipedia: http://en.wikipedia.org/wiki/George_MacKinnon_Wrong
+  - agent_name: Langton, H. H. (Hugh Hornby)
+    alias: Langton, Hugh Hornby
+    birthdate: 1862
+    deathdate: 1953
+    gutenberg_agent_id: '4517'
+    url: http://www.gutenberg.org/2009/agents/4517
+description: ''
+gutenberg_issued: '2005-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14582'
+language: en
+publication_note: 'Toronto :  [s.n.],  1915'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Chronicles of Canada series: Volume 14'
+subjects:
+- !lcsh 'United States -- History -- War of 1812'
+- !lcc 'E300'
+title: 'The War With the United States : A Chronicle of 1812'
+url: http://www.gutenberg.org/ebooks/14582
