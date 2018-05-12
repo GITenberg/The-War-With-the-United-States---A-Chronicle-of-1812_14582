@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '4517'
     url: http://www.gutenberg.org/2009/agents/4517
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14582#The-War-With-the-United-States---A-Chronicle-of-1812
 gutenberg_issued: '2005-01-03'
 gutenberg_type: Text
 identifiers:
