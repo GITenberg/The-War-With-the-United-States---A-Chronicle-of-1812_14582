@@ -40,5 +40,6 @@ series_note: 'Chronicles of Canada series: Volume 14'
 subjects:
 - !lcsh 'United States -- History -- War of 1812'
 - !lcc 'E300'
+- GITenberg
 title: 'The War With the United States : A Chronicle of 1812'
 url: http://www.gutenberg.org/ebooks/14582
